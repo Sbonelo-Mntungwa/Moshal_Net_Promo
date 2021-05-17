@@ -1,0 +1,8 @@
+  2021/05/16 17:41:17: Starting composition “Main”.
+
+  Output To: C:\Users\sbone\Documents\moshal net video\Main\Main.avi    2021/05/16 17:57:56: Finished composition “Main”.
+
+
+  Total Time Elapsed: 16 Min, 39 Sec
+Log closed on 2021/05/16 at 17:57:56
+
