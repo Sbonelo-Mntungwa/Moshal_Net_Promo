@@ -1,0 +1,8 @@
+  2021/06/18 17:29:34: Starting composition “Main”.
+
+  Output To: C:\Users\sbone\Documents\moshal net video\Main.avi    MISSING FOOTAGE, drawing color bars: File Not Found C:\Users\sbone\Documents\moshal net video\glitch-reflection-logo-reveal-TQKKZ2L\After Effects\Assets\Floor.jpg  MISSING FOOTAGE, drawing color bars: File Not Found C:\Users\sbone\Documents\moshal net video\glitch-reflection-logo-reveal-TQKKZ2L\After Effects\Assets\Reflection.jpg    Render stopped by user.      Render stopped by user.      Render stopped by user.  After Effects error: An output module stopped responding. The file may be damaged or corrupted. You may need to restart After Effects.  2021/06/18 17:30:04: Finished composition “Main”.
+
+
+  Total Time Elapsed: 4 Seconds
+Log closed on 2021/06/18 at 17:30:05
+
